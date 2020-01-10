@@ -6,5 +6,7 @@ Welcome to the machine learning crash course. The initial idea is to follow Bish
 ### Contributors:
 
 [Manuel Molano](https://github.com/manuelmolano)
+
 [Giuseppe Pica](https://github.com/g-pica)
+
 [Yann Zerlaut](https://github.com/yzerlaut)
